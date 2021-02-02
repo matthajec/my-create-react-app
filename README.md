@@ -1,5 +1,6 @@
 # My Create React App
-A react boilerplate. You can directly import sass/scss files without compiling them into css.
+A react boilerplate. You can directly import sass/scss files without compiling them into css.\
+To use this run `git clone https://github.com/matthajec/my-create-react-app [directory to copy to]` in terminal
 
 ### Available Scripts
 ### `npm start`
