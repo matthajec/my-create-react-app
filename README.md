@@ -6,4 +6,5 @@ A react boilerplate. You can directly import sass/scss files without compiling t
 Runs the development server at [http://localhost:8080](http://localhost:8080)
 
 ### `npm run build`
-Creates a production ready app in the `dist` folder.
+Creates a production ready app in the `dist` folder. 
+The filenames are hashes so users browsers don't load outdated scripts from cache.
