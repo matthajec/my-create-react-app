@@ -1,14 +1,14 @@
 {
-  "name": "rock-paper-scissors",
+  "name": "my-create-react-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "a react boilerplate",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --hot --open --mode development",
     "build": "webpack --config webpack.config.js --mode production"
   },
   "keywords": [],
-  "author": "",
+  "author": "matthajec",
   "license": "ISC",
   "dependencies": {
     "@babel/core": "^7.12.10",
